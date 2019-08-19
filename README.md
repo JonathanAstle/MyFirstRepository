@@ -12,3 +12,12 @@ _this makes text italic_
 _**or both**_
 
 > This would make this sentence a block quote
+
+> If it spans multiple
+>
+> lines, 
+>
+> You need to include a < for 
+> each line 
+>
+> even the empty ones
