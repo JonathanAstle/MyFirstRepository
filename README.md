@@ -31,8 +31,8 @@ _**or both**_
 
 
 * Indented
- * list
- * would look like
-  * this
- * beep
-  * boop
+ * List
+  * would
+ * look
+  * like
+   * this
