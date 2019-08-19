@@ -35,4 +35,17 @@ _**or both**_
   * would
  * look
   * like
-   * this
+   * this (why didn't this work?)
+   
+   
+Hard 
+
+Breaks
+
+look like this
+
+
+
+Soft  
+breaks  
+look like this (each line ends with a double space)
