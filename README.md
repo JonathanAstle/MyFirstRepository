@@ -17,7 +17,22 @@ _**or both**_
 >
 > lines, 
 >
-> You need to include a < for 
+> You need to include a > for 
 > each line 
 >
 > even the empty ones
+
+* Bullet
+* Point
+* List
+
+1. Numbered
+2. List
+
+
+* Indented
+ * list
+ * would look like
+  * this
+ * beep
+  * boop
